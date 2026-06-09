@@ -1,0 +1,13 @@
+{
+  "source_dataset": "cais/hle",
+  "source_file": "/data/hf_mirror_downloads/F0TJyHmg/cais/hle/data/test-00000-of-00001.parquet",
+  "output_root": "/data/hf_mmmu_images_export/hle",
+  "record_count": 2500,
+  "image_count": 596,
+  "image_fields_seen": [
+    "image",
+    "rationale_image"
+  ],
+  "failed_count": 0,
+  "failed_examples": []
+}
