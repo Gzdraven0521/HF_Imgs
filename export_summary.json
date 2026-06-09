@@ -1,0 +1,15 @@
+{
+  "source_dataset": "m-a-p/SimpleVQA",
+  "source_file": "/data/hf_mirror_downloads/F0TJyHmg/m-a-p/SimpleVQA/test.parquet",
+  "output_root": "/data/hf_mmmu_images_export/SimpleVQA",
+  "record_count": 2024,
+  "image_count": 2024,
+  "failed_count": 1,
+  "failed_examples": [
+    {
+      "row_index": 83,
+      "id": "test_SimpleVQA_83",
+      "error": "invalid image bytes for test_SimpleVQA_83_image_1.png: cannot identify image file <_io.BytesIO object at 0x7f5dfa2fd120>"
+    }
+  ]
+}
