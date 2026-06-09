@@ -1,0 +1,9 @@
+{
+  "source_dataset": "moonshotai/WorldVQA",
+  "source_file": "/data/hf_mirror_downloads/F0TJyHmg/moonshotai/WorldVQA/WorldVQA.tsv",
+  "output_root": "/data/hf_mmmu_images_export/WorldVQA",
+  "record_count": 3000,
+  "image_count": 3000,
+  "failed_count": 0,
+  "failed_examples": []
+}
