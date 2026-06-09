@@ -1,0 +1,9 @@
+{
+  "source_dataset": "MathLLMs/MathVision",
+  "source_file": "/data/hf_mirror_downloads/F0TJyHmg/MathLLMs/MathVision/data/test-00000-of-00001-3532b8d3f1b4047a.parquet",
+  "output_root": "/data/hf_mmmu_images_export/MathVision",
+  "record_count": 3040,
+  "image_count": 3040,
+  "failed_count": 0,
+  "failed_examples": []
+}
